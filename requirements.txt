@@ -1,0 +1,5 @@
+aiogram==2.20
+aiofiles==0.8.0
+asyncio==3.4.3
+Pyrogram==2.0.27
+asyncpg==0.25.0
